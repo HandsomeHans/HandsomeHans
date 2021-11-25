@@ -1,8 +1,9 @@
 ### Hi there, I'm Hans 👋
 
-![](https://github-readme-stats.vercel.app/api?username=HandsomeHans&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=HandsomeHans&show_icons=true&theme=tokyonight) 
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs?username=HandsomeHans&layout=compact&hide_border=false&langs_count=10&theme=tokyonight) -->
 
-
+<!-- ![](https://stats.justsong.cn/api/csdn?id=renhanchi) -->
 
 <!--
 **HandsomeHans/HandsomeHans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
