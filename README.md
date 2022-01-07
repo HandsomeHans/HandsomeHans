@@ -2,6 +2,8 @@
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=HandsomeHans&show_icons=true&theme=tokyonight&count_private=true"  height="180">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HandsomeHans&layout=compact&hide_border=false&langs_count=10&theme=tokyonight&count_private=true"  height="180">
 </div>
+
+ ![]（https://komarev.com/ghpvc/?username=HandsomeHans）
 <!-- <img src="https://stats.justsong.cn/api/csdn?id=renhanchi"  height="180"> -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HandsomeHans&repo=HandsomeHans)](https://github.com/HandsomeHans/HandsomeHans/) -->
