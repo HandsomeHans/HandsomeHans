@@ -1,5 +1,4 @@
-### Hi there, I'm Hans 👋
-![](https://komarev.com/ghpvc/?username=HandsomeHans)
+### Hi there, I'm Hans 👋  ![](https://komarev.com/ghpvc/?username=HandsomeHans)
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=HandsomeHans&show_icons=true&theme=tokyonight&count_private=true"  height="180">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HandsomeHans&layout=compact&hide_border=false&langs_count=10&theme=tokyonight&count_private=true&hide=html,css,scss,javascript&exclude_repo=HandsomeHans.github.io"  height="180">
 </div>
