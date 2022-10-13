@@ -1,4 +1,4 @@
-### Hi there, I'm Hans 👋  ![](https://komarev.com/ghpvc/?username=HansRen1024) (Since 2022.04)
+### Hi there, I'm Hans 👋  ![](https://komarev.com/ghpvc/?username=HansRen1024)
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=HansRen1024&show_icons=true&theme=tokyonight&count_private=true"  height="180">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HansRen1024&layout=compact&hide_border=false&langs_count=10&theme=tokyonight&count_private=true&hide=html,css,scss,javascript&exclude_repo=HansRen1024.github.io"  height="180">
 </div>
